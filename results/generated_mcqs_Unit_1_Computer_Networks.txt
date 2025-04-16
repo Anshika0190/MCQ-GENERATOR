@@ -1,0 +1,62 @@
+## MCQ 1
+Question: What is the primary function of a network?
+A) To store files securely
+B) To share resources, exchange files, and enable communication
+C) To provide entertainment
+D) To perform complex calculations
+
+Correct Answer: B
+
+## MCQ 2
+Question: How many layers are in the OSI reference model?
+A) 4
+B) 5
+C) 6
+D) 7
+
+Correct Answer: D
+
+## MCQ 3
+Question: Which layer of the TCP/IP model is responsible for end-to-end communication and error-free delivery of data?
+A) Application Layer
+B) Internet Layer
+C) Transport Layer
+D) Network Access Layer
+
+Correct Answer: C
+
+## MCQ 4
+Question: What is the function of a repeater in a network?
+A) To amplify the signal
+B) To regenerate the signal at its original strength
+C) To filter content by reading MAC addresses
+D) To connect multiple devices in a network
+
+Correct Answer: B
+
+## MCQ 5
+Question: Which network topology connects all devices to a central hub or switch?
+A) Bus Topology
+B) Ring Topology
+C) Star Topology
+D) Mesh Topology
+
+Correct Answer: C
+
+## MCQ 6
+Question: What is attenuation in the context of transmission media?
+A) Distortion of the signal shape
+B) Addition of unwanted signals creating noise
+C) Loss of signal strength over distance
+D) Delay caused by different propagation speeds of frequency components
+
+Correct Answer: C
+
+## MCQ 7
+Question:  What does TCP stand for in networking?
+A) Transmission Control Protocol
+B) Transport Communication Protocol
+C) Total Control Process
+D) Transfer Control Protocol
+
+Correct Answer: A
